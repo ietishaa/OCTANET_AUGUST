@@ -23,6 +23,8 @@ To use the Petals landing page, follow these steps:
 ### Disclaimer
 The Petals landing page is created for educational purposes and to showcase the capabilities of HTML and CSS. The flower images used in the gallery section are for demonstration purposes only and may be subject to copyright. It is recommended to use royalty-free or properly licensed images when creating a production-ready website.
 
+<br>
+
 ##Task 2
 
 ###Introduction
@@ -43,3 +45,5 @@ This project is a simple to-do list web application built using HTML, CSS, and J
 
 ###Disclaimer
 This application is for educational purposes only and does not include any backend or database functionality. The tasks are stored locally in the browser's localStorage and will be cleared if the browser data is cleared. This application does not provide any security features and should not be used to store sensitive information. The code provided is a basic example and may not adhere to best practices or include error handling.
+
+</br>
